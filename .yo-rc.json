@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "truequek",
+    "packageName": "truequek",
+    "packageFolder": "truequek",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YzQwYWI4MTIxODE5OWM2OWZlYzRhMmNlOWJhNjRjYWViMGI5NWYwYjRiN2U2ZjU1ODY5ZWVjNTgyNjNlNTc2YTA0Y2ExZmVjNmU0ZDQ2Y2JlNjI2OWE4ZmVjM2FlMmZhMTc5N2EyNmVkYWQ1NTRlYTJkMTE0Zjk4ODBkM2UwYjM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "robertot777",
+  "repository-name": "truequek"
+}
